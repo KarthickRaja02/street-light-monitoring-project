@@ -1,1 +1,0 @@
-# street-light-monitoring-project
